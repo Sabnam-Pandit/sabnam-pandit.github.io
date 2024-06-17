@@ -2,7 +2,7 @@
 # Display name
 title: Sabnam Pandit
 
-# Name pronunciation (optional)
+
 
 # Full name (for SEO)
 first_name: Sabnam
@@ -32,18 +32,10 @@ profiles:
   - icon: at-symbol
     url: 'mailto:your-email@example.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/Sabnam-Pandit
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.linkedin.com/in/sabnam-pandit/
 
 interests:
   - Machine Learning
