@@ -39,33 +39,36 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-hugomod-
 
-      - name: Setup Pages
-        id: pages
-        uses: actions/configure-pages@v3
-
       - name: Build with Hugo
         env:
           HUGO_ENVIRONMENT: production
         run: |
           cd website-main
-          hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
-
-      - name: Generate Pagefind search index
-        run: |
-          cd website-main
-          npx pagefind --site "public"
+          hugo --minify --baseURL "${{ github.repository_url }}/website-main/"
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
+        uses: actions/upload-artifact@v2
         with:
-          path: ./website-main/public
+          name: public
+          path: website-main/public
 
   deploy:
     runs-on: ubuntu-latest
     needs: build
     steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Download artifact
+        uses: actions/download-artifact@v2
+        with:
+          name: public
+          path: website-main/public
+
       - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v2
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: website-main/public
 
 
