@@ -1,0 +1,42 @@
+{{ define "main" }}
+<section class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+  <h1 class="text-3xl font-bold mb-8">Experience</h1>
+
+  {{ $items := sort .Pages "Params.date_start" "desc" }}
+
+  <div class="relative border-l-2 border-green-500 pl-6">
+    {{ range $items }}
+      {{ $p := .Params }}
+      <div class="mb-12 ml-4 relative">
+        <!-- Timeline icon -->
+        <div class="absolute w-6 h-6 bg-white border-2 border-green-500 rounded-full -left-8 top-1 flex items-center justify-center">
+          <svg class="w-4 h-4 text-green-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+              d="M6 3v2a2 2 0 002 2h8a2 2 0 002-2V3m-4 12v4m-4-4v4m-4-4v4m8-4h2a2 2 0 002-2v-5a2 2 0 00-2-2h-2a2 2 0 00-2 2v5a2 2 0 002 2z" />
+          </svg>
+        </div>
+
+        <!-- Experience content -->
+        <h2 class="text-xl font-semibold">{{ .Title }}</h2>
+        {{ with $p.company }}
+          <p class="text-md text-gray-700">{{ . }}</p>
+        {{ end }}
+        {{ with $p.date_start }}
+          <p class="text-sm text-gray-500 mb-2">
+            {{ . | time.Format "Jan 2006" }}
+            {{ with $p.date_end }} – {{ . | time.Format "Jan 2006" }}{{ else }} – Present{{ end }}
+          </p>
+        {{ end }}
+
+        {{ with $p.summary }}
+          <div class="text-gray-800 text-sm leading-relaxed">
+            {{ . | markdownify }}
+          </div>
+        {{ end }}
+      </div>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
+
+
