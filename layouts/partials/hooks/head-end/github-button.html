@@ -1,1 +1,8 @@
 <script async defer src="https://buttons.github.io/buttons.js"></script>
+{{ if .Params.project_website }}
+<p style="text-align:center; margin-top:10px;">
+  <a href="{{ .Params.project_website }}" target="_blank" style="display:inline-block;padding:12px 25px;background:#007ACC;color:#fff;font-weight:bold;border-radius:8px;text-decoration:none;font-size:1rem;">
+    🌐 Visit Project Website
+  </a>
+</p>
+{{ end }}

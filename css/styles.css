@@ -1,41 +1,105 @@
-/* Base light mode */
+/* ===== Base Light Mode ===== */
 body {
-    background: white;
-    color: #222;
-    font-family: system-ui, sans-serif;
-  }
-  
-  a {
-    color: #1a73e8;
-    text-decoration: none;
-  }
-  
-  a:hover {
-    text-decoration: underline;
-  }
-  
-  /* Dark mode support */
-  html.dark, body.dark-mode {
-    background: #111;
-    color: #fff;
-  }
-  
-  html.dark a,
-  body.dark-mode a {
-    color: #add8ff;
-  }
-  
-  html.dark .button,
-  body.dark-mode .button {
-    background-color: #fff;
-    color: #000;
-  }
-  
-  svg rect {
-    transition: filter 0.3s ease-in-out;
-  }
-  
-  html.dark svg rect {
-    filter: brightness(0.8);
-  }
-  
+  margin: 0;
+  background: white;
+  color: #222;
+  font-family: system-ui, sans-serif;
+  line-height: 1.6;
+}
+
+a {
+  color: #1a73e8;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* ===== Navbar ===== */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  background: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  top: 0;
+  width: 100%;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+.navbar a {
+  margin-left: 1.5rem;
+  font-weight: 500;
+}
+
+/* Theme toggle button */
+/* #toggleTheme {
+  background: none;
+  border: none;
+  font-size: 1.2rem;
+  cursor: pointer;
+} */
+
+/* ===== Content card ===== */
+.content-card {
+  max-width: 800px;
+  margin: 4rem auto;
+  padding: 2rem;
+  border-radius: 12px;
+  background: rgba(255, 255, 255, 0.8);
+  backdrop-filter: blur(6px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+
+/* ===== Dark Mode ===== */
+html.dark,
+body.dark-mode {
+  background: #111;
+  color: #f0f0f0;
+}
+
+html.dark a,
+body.dark-mode a {
+  color: #add8ff;
+}
+
+html.dark .navbar,
+body.dark-mode .navbar {
+  background: rgba(30, 30, 30, 0.9);
+  box-shadow: 0 2px 6px rgba(0,0,0,0.4);
+}
+
+html.dark .content-card,
+body.dark-mode .content-card {
+  background: rgba(25, 25, 25, 0.85);
+  color: #f0f0f0;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.6);
+}
+
+/* ===== SVG Background Gradient Switch ===== */
+.header-bg-svg .bg-rect {
+  fill: url(#bgGradient); /* Light by default */
+  transition: fill 0.4s ease-in-out;
+}
+
+html.dark .header-bg-svg .bg-rect,
+body.dark-mode .header-bg-svg .bg-rect {
+  fill: url(#darkGradient);
+}
+
+/* ===== Hide Theme Toggle Button ===== */
+/* .theme-toggle {
+  display: none !important;
+} */
+
+/* Hide the container div that holds the theme toggle */
+/* div.px-3:has(.theme-toggle) {
+  display: none !important;
+} */
+
+/* Alternative approach for browsers that don't support :has() */
+/* .theme-toggle:parent {
+  display: none !important;
+} */

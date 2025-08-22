@@ -13,23 +13,121 @@
     </image>
     
     <item>
-      <title>Example Talk</title>
-      <link>http://localhost:1313/sabnampandit/event/example/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sabnampandit/event/example/</guid>
-      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/span&gt;
-&lt;/div&gt;
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+      <title>🎓 I Just Graduated!</title>
+      <link>http://localhost:1313/sabnampandit/blogs/data-visualization/</link>
+      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sabnampandit/blogs/data-visualization/</guid>
+      <description>&lt;h1 id=&#34;-i-just-graduated-a-journey-of-growth-grit-and-gratitude&#34;&gt;🎓 I Just Graduated! A Journey of Growth, Grit, and Gratitude&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Reflections from my Master’s in Big Data Analytics at San Diego State University&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;the-beginning-excitement-nervousness-and-determination&#34;&gt;The Beginning: Excitement, Nervousness, and Determination&lt;/h2&gt;
+&lt;p&gt;I just graduated with my Master’s in &lt;strong&gt;Big Data Analytics&lt;/strong&gt; from SDSU! After months of hard work, late-night coding sessions, and unforgettable memories, I’m finally holding that diploma in my hands.&lt;/p&gt;
+&lt;p&gt;I still remember opening my admission email — a mix of excitement, nervousness, and sheer determination. Orientation at &lt;strong&gt;Storm Hall&lt;/strong&gt; was the official beginning. Meeting my cohort — brilliant minds from around the world — was overwhelming in the best way possible.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“By the end of this journey, I didn’t just earn a degree — I began shaping myself into a Data Scientist.”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;From day one, I told myself: &lt;em&gt;“Give it your all.”&lt;/em&gt; I had come to a new country, full of opportunities, determined to make the most of it.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-experiences-that-shaped-me&#34;&gt;💻 Experiences That Shaped Me&lt;/h2&gt;
+&lt;h3 id=&#34;my-first-project-image-caption-generation-with-custom-music-recommendation&#34;&gt;My First Project: Image Caption Generation with Custom Music Recommendation&lt;/h3&gt;
+&lt;p&gt;I was a complete beginner, learning, stumbling, and doubting myself — but the joy of finally seeing it work was unforgettable.&lt;/p&gt;
+&lt;p&gt;Those late nights spent debugging code were intense. When the model finally ran, a mix of relief, triumph, and confidence washed over me — a true &lt;em&gt;‘bring it on’&lt;/em&gt; feeling.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;research-with-san-diego-zoo&#34;&gt;Research with San Diego Zoo&lt;/h3&gt;
+&lt;p&gt;Working with my professor on a project in collaboration with the &lt;strong&gt;San Diego Zoo Safari Park&lt;/strong&gt; was surreal. Driving to the park to present our findings gave me my first taste of academic research and boosted my confidence to share work publicly.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;San Diego Zoo&#34; srcset=&#34;
+               /sabnampandit/blogs/data-visualization/IMG_3083_hu14423639031506147919.webp 400w,
+               /sabnampandit/blogs/data-visualization/IMG_3083_hu6301998562049629624.webp 760w,
+               /sabnampandit/blogs/data-visualization/IMG_3083_hu11614565346392919939.webp 1200w&#34;
+               src=&#34;http://localhost:1313/sabnampandit/sabnampandit/blogs/data-visualization/IMG_3083_hu14423639031506147919.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;gmis-conference--teaching-assistant-experience&#34;&gt;GMIS Conference &amp;amp; Teaching Assistant Experience&lt;/h3&gt;
+&lt;p&gt;Attending &lt;strong&gt;GMIS (Great Minds in STEM)&lt;/strong&gt; was inspiring — filled with knowledge, networking, and a glimpse into what’s possible.&lt;/p&gt;
+&lt;p&gt;Being a Teaching Assistant for &lt;strong&gt;Advanced Programming Languages&lt;/strong&gt; was terrifying at first, but every week I gained more confidence. Proctoring an in-person exam for 65 students on my own was a small victory that whispered, &lt;em&gt;“Hey, maybe you could teach someday.”&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-lessons-id-share-with-my-past-self&#34;&gt;🔄 Lessons I’d Share With My Past Self&lt;/h2&gt;
+&lt;p&gt;While I’m proud of my journey, there are a few things I’d approach differently:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Hugo Blox Builder&amp;rsquo;s &lt;a href=&#34;https://docs.hugoblox.com/reference/content-types/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;🎓 &lt;strong&gt;It’s not just about the course — it’s about the professor.&lt;/strong&gt;&lt;br&gt;
+Research teaching styles and past student experiences; mentorship matters.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;📚 &lt;strong&gt;Take a class from a professor you admire.&lt;/strong&gt;&lt;br&gt;
+Don’t wait. Reach out early and find ways to collaborate.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;💼 &lt;strong&gt;Start preparing for internships immediately.&lt;/strong&gt;&lt;br&gt;
+Resume, cover letters, LinkedIn — start early. Timing can make all the difference.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;💡 &lt;strong&gt;Ask for help and take risks.&lt;/strong&gt;&lt;br&gt;
+Growth comes from stepping out of your comfort zone.&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Further event details, including &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-bda-excellence-award--whats-next&#34;&gt;🏅 BDA Excellence Award &amp;amp; What’s Next&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;BDA Excellence Award&#34; srcset=&#34;
+               /sabnampandit/blogs/data-visualization/BDA_hu14788389791571755406.webp 400w,
+               /sabnampandit/blogs/data-visualization/BDA_hu6129197088244695018.webp 760w,
+               /sabnampandit/blogs/data-visualization/BDA_hu458919894707480701.webp 1200w&#34;
+               src=&#34;http://localhost:1313/sabnampandit/sabnampandit/blogs/data-visualization/BDA_hu14788389791571755406.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;592&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;I’m thrilled to share that I graduated with a &lt;strong&gt;4.0 GPA&lt;/strong&gt; and received the &lt;strong&gt;BDA Excellence Certificate&lt;/strong&gt;, a proud moment symbolizing all the effort, perseverance, and growth over the past two years.&lt;/p&gt;
+&lt;p&gt;Now, I’m ready to dive into the real world — eager to apply my skills, discover new ones, and explore the full extent of my potential. The learning doesn’t stop here. I’m on it. 💪&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-reflections&#34;&gt;✨ Reflections&lt;/h2&gt;
+&lt;p&gt;Two years ago, I was nervous about stepping into a new country, a new educational system, and an entirely new field. Today, I’m grateful — for the challenges, the failures, the late nights, the mentors, and the friends who made this journey unforgettable.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;“Embrace every moment. The struggles, the excitement, the tiny wins — they all shape you in ways you’ll only realize later.”&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;To anyone reading this who’s about to embark on a similar path: keep learning, stay curious, and trust the process.&lt;/p&gt;
+&lt;hr&gt;
 </description>
     </item>
     
@@ -76,11 +174,17 @@ directly impact policymaking, business planning, and personal well-being.&lt;/p&
     </item>
     
     <item>
-      <title>Supply and Demand of EV Charging stations in relation to EV Population in Washington State</title>
+      <title>Supply and Demand of EV Charging Stations in Relation to EV Population in Washington State</title>
       <link>http://localhost:1313/sabnampandit/project/evchargingstations/</link>
       <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/sabnampandit/project/evchargingstations/</guid>
-      <description>&lt;p&gt;Supply and Demand of EV Charging stations in relation to EV Population in Washington State. We have also taken Income and Education data of Washington state in consideration for dependent variable to Charging station which is a dependent variable.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Explore the supply and demand of EV charging stations across Washington State in relation to the EV population. This analysis also considers &lt;strong&gt;income and education levels&lt;/strong&gt; as factors influencing the distribution of charging stations.&lt;/p&gt;
+&lt;!-- Separate button below the card --&gt;
+&lt;p style=&#34;text-align:center; margin-top:20px;&#34;&gt;
+  &lt;a href=&#34;https://sites.google.com/sdsu.edu/soundscape-analysis/home&#34; target=&#34;_blank&#34; style=&#34;display:inline-block;padding:12px 25px;background:#007ACC;color:#fff;font-weight:bold;border-radius:8px;text-decoration:none;font-size:1rem;&#34;&gt;
+    🌐 Visit Project Website
+  &lt;/a&gt;
+&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -101,411 +205,72 @@ directly impact policymaking, business planning, and personal well-being.&lt;/p&
     
     <item>
       <title></title>
-      <link>http://localhost:1313/sabnampandit/post/data-visualization/</link>
+      <link>http://localhost:1313/sabnampandit/event/example/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sabnampandit/post/data-visualization/</guid>
+      <guid>http://localhost:1313/sabnampandit/event/example/</guid>
       <description>&lt;!-- ---
-title: 📈 Communicate your results effectively with the best data visualizations
-summary: Use popular tools such as Plotly, Mermaid, and data frames.
-date: 2023-10-25
-authors:
-  - admin
-tags:
-  - Hugo
-  - Hugo Blox
-  - Markdown
-image:
-  caption: &#39;Image credit: [**Unsplash**](https://unsplash.com)&#39;
----
+title: Example Talk
 
-Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.
+event: Hugo Blox Builder Conference
+event_url: https://example.org
 
-Use popular tools such as Plotly, Mermaid, and data frames.
+location: Hugo Blox Builder HQ
+address:
+  street: 450 Serra Mall
+  city: Stanford
+  region: CA
+  postcode: &#39;94305&#39;
+  country: United States
 
-## Charts
+summary: An example talk using Hugo Blox Builder&#39;s Markdown slides feature.
+abstract: &#39;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.&#39;
 
-Hugo Blox supports the popular [Plotly](https://plot.ly/) format for interactive data visualizations. With Plotly, you can design almost any kind of visualization you can imagine!
+# Talk start and end times.
+#   End time can optionally be hidden by prefixing the line with `#`.
+date: &#39;2030-06-01T13:00:00Z&#39;
+date_end: &#39;2030-06-01T15:00:00Z&#39;
+all_day: false
 
-Save your Plotly JSON in your page folder, for example `line-chart.json`, and then add the `{{&lt; chart data=&#34;line-chart&#34; &gt;}}` shortcode where you would like the chart to appear.
-
-Demo:
-
-
-
-
-
-&lt;div id=&#34;chart-498765321&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-  async function fetchChartJSON() {
-    console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
-    const response = await fetch(&#39;.\/line-chart.json&#39;);
-    return await response.json();
-  }
-
-  (function() {
-    let a = setInterval( function() {
-      if ( typeof window.Plotly === &#39;undefined&#39; ) {
-        console.debug(&#39;Plotly not loaded yet...&#39;)
-        return;
-      }
-      clearInterval( a );
-
-      fetchChartJSON().then(chart =&gt; {
-        console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-498765321&#39;, chart.data, chart.layout, {responsive: true});
-      });
-    }, 500 );
-  })();
-&lt;/script&gt;
-
-
-You might also find the [Plotly JSON Editor](http://plotly-json-editor.getforge.io/) useful.
-
-## Diagrams
-
-Hugo Blox supports the _Mermaid_ Markdown extension for diagrams.
-
-An example **flowchart**:
-
-  </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://localhost:1313/sabnampandit/post/get-started/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sabnampandit/post/get-started/</guid>
-      <description>&lt;!-- ---
-title: 🎉 Easily create your own simple yet highly customizable blog
-summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
-date: 2023-10-27
-
-# Featured image
-# Place an image named `featured.jpg/png` in this page&#39;s folder and customize its options here.
-image:
-  caption: &#39;Image credit: [**Unsplash**](https://unsplash.com)&#39;
+# Schedule page publish date (NOT talk date).
+publishDate: &#39;2017-01-01T00:00:00Z&#39;
 
 authors:
   - admin
-  - Ted
 
-tags:
-  - Academic
-  - Hugo Blox
-  - Markdown
----
+tags: []
 
-Welcome 👋
+# Is this a featured talk? (true/false)
+featured: false
 
-
-
-
-&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
-  &lt;summary&gt;Table of Contents&lt;/summary&gt;
-  &lt;div class=&#34;text-sm&#34;&gt;
-  &lt;nav id=&#34;TableOfContents&#34;&gt;&lt;/nav&gt;
-  &lt;/div&gt;
-&lt;/details&gt;
-
-
-## Overview
-
-1. The Hugo Blox website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It&#39;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
-
-[//]: # ([![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.]&amp;#40;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png&amp;#41;]&amp;#40;https://hugoblox.com&amp;#41;)
-
-### Get Started
-
-- 👉 [**Create a new site**](https://hugoblox.com/templates/)
-- 📚 [**Personalize your site**](https://docs.hugoblox.com/)
-- 💬 [Chat with the **Hugo Blox community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@GetResearchDev](https://twitter.com/GetResearchDev) [@GeorgeCushen](https://twitter.com/GeorgeCushen) #MadeWithHugoBlox
-- 💡 [Request a **feature** or report a **bug** for _Hugo Blox_](https://github.com/HugoBlox/hugo-blox-builder/issues)
-- ⬆️ **Updating Hugo Blox?** View the [Update Guide](https://docs.hugoblox.com/reference/update/) and [Release Notes](https://github.com/HugoBlox/hugo-blox-builder/releases)
-
-## Crowd-funded open-source software
-
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
-
-### [❤️ Click here to become a sponsor and help support Hugo Blox&#39;s future ❤️](https://hugoblox.com/sponsor/)
-
-As a token of appreciation for sponsoring, you can **unlock [these](https://hugoblox.com/sponsor/) awesome rewards and extra features 🦄✨**
-
-## Ecosystem
-
-- **[Bibtex To Markdown](https://github.com/GetRD/academic-file-converter):** Automatically import publications from BibTeX
-
-## Inspiration
-
-[Learn what other **creators**](https://hugoblox.com/creators/) are building with this template.
-
-## Features
-
-- **Page builder** - Create _anything_ with no-code [**blocks**](https://hugoblox.com/blocks/) and [**elements**](https://docs.hugoblox.com/reference/markdown/)
-- **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
-- **Create content** in [**Markdown**](https://docs.hugoblox.com/reference/markdown/), [**Jupyter**](https://docs.hugoblox.com/getting-started/cms/), or [**RStudio**](https://docs.hugoblox.com/getting-started/cms/)
-- **Plugin System** - Fully customizable [**color** and **font themes**](https://docs.hugoblox.com/getting-started/customize/)
-- **Display Code and Math** - Code syntax highlighting and LaTeX math supported
-- **Integrations** - [Google Analytics](https://analytics.google.com), [Disqus commenting](https://disqus.com), Maps, Contact Forms, and more!
-- **Beautiful Site** - Simple and refreshing one-page design
-- **Industry-Leading SEO** - Help get your website found on search engines and social media
-- **Media Galleries** - Display your images and videos with captions in a customizable gallery
-- **Mobile Friendly** - Look amazing on every screen with a mobile friendly version of your site
-- **Multi-language** - 35+ language packs including English, 中文, and Português
-- **Multi-user** - Each author gets their own profile page
-- **Privacy Pack** - Assists with GDPR
-- **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
-- **One-Click Deployment** - No servers. No databases. Only files.
-
-## Themes
-
-Hugo Blox and its templates come with **automatic day (light) and night (dark) mode** built-in. Visitors can choose their preferred mode by clicking the sun/moon icon in the header.
-
-[Choose a stunning **theme** and **font**](https://docs.hugoblox.com/getting-started/customize/) for your site. Themes are fully customizable.
-
-## License
-
-Copyright 2016-present [George Cushen](https://georgecushen.com).
-
-Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md) license. --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://localhost:1313/sabnampandit/post/project-management/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sabnampandit/post/project-management/</guid>
-      <description>&lt;!-- ---
-title: ✅ Manage your projects
-summary: Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
-date: 2023-10-23
-authors:
-  - admin
-tags:
-  - Hugo Blox
-  - Markdown
 image:
-  caption: &#39;Image credit: [**Unsplash**](https://unsplash.com)&#39;
+  caption: &#39;Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)&#39;
+  focal_point: Right
+
+#links:
+#  - icon: twitter
+#    icon_pack: fab
+#    name: Follow
+#    url: https://twitter.com/georgecushen
+url_code: &#39;https://github.com&#39;
+url_pdf: &#39;&#39;
+url_slides: &#39;https://slideshare.net&#39;
+url_video: &#39;https://youtube.com&#39;
+
+# Markdown Slides (optional).
+#   Associate this talk with Markdown slides.
+#   Simply enter your slide deck&#39;s filename without extension.
+#   E.g. `slides = &#34;example-slides&#34;` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = &#34;&#34;`.
+slides: &#34;&#34;
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project&#39;s folder or file name without extension.
+#   E.g. `projects = [&#34;internal-project&#34;]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects:
+  - example
 ---
-
-Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
-
-## Ideation
-
-Hugo Blox supports a Markdown extension for mindmaps.
-
-Simply insert a Markdown code block labelled as `markmap` and optionally set the height of the mindmap as shown in the example below.
-
-Mindmaps can be created by simply writing the items as a Markdown list within the `markmap` code block, indenting each item to create as many sub-levels as you need:
-
-&lt;div class=&#34;highlight&#34;&gt;
-&lt;pre class=&#34;chroma&#34;&gt;
-&lt;code&gt;
-```markmap {height=&#34;200px&#34;}
-- Hugo Modules
-  - Hugo Blox
-  - blox-plugins-netlify
-  - blox-plugins-netlify-cms
-  - blox-plugins-reveal
-```
-&lt;/code&gt;
-&lt;/pre&gt;
-&lt;/div&gt;
-
-renders as
-
-```markmap {height=&#34;200px&#34;}
-- Hugo Modules
-  - Hugo Blox
-  - blox-plugins-netlify
-  - blox-plugins-netlify-cms
-  - blox-plugins-reveal
-```
-
-## Diagrams
-
-Hugo Blox supports the _Mermaid_ Markdown extension for diagrams.
-
-An example **Gantt diagram**:
-
-    ```mermaid
-    gantt
-    section Section
-    Completed :done,    des1, 2014-01-06,2014-01-08
-    Active        :active,  des2, 2014-01-07, 3d
-    Parallel 1   :         des3, after des1, 1d
-    Parallel 2   :         des4, after des1, 1d
-    Parallel 3   :         des5, after des3, 1d
-    Parallel 4   :         des6, after des4, 1d
-    ```
-
-renders as
-
-```mermaid
-gantt
-section Section
-Completed :done,    des1, 2014-01-06,2014-01-08
-Active        :active,  des2, 2014-01-07, 3d
-Parallel 1   :         des3, after des1, 1d
-Parallel 2   :         des4, after des1, 1d
-Parallel 3   :         des5, after des3, 1d
-Parallel 4   :         des6, after des4, 1d
-```
-
-## Todo lists
-
-You can even write your todo lists in Markdown too:
-
-```markdown
-- [x] Write math example
-  - [x] Write diagram example
-- [ ] Do something else
-```
-
-renders as
-
-- [x] Write math example
-  - [x] Write diagram example
-- [ ] Do something else
-
-## Did you find this page helpful? Consider sharing it 🙌 --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://localhost:1313/sabnampandit/post/second-brain/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sabnampandit/post/second-brain/</guid>
-      <description>&lt;!-- ---
-title: 🧠 Sharpen your thinking with a second brain
-summary: Create a personal knowledge base and share your knowledge with your peers.
-date: 2023-10-26
-authors:
-  - admin
-tags:
-  - Second Brain
-  - Markdown
-image:
-  caption: &#39;Image credit: [**Unsplash**](https://unsplash.com)&#39;
----
-
-Create a personal knowledge base and share your knowledge with your peers.
-
-Hugo Blox web framework empowers you with one of the most flexible note-taking capabilities out there.
-
-Create a powerful knowledge base that works on top of a local folder of plain text Markdown files.
-
-Use it as your second brain, either publicly sharing your knowledge with your peers via your website, or via a private GitHub repository and password-protected site just for yourself.
-
-## Mindmaps
-
-Hugo Blox supports a Markdown extension for mindmaps.
-
-With this open format, can even edit your mindmaps in other popular tools such as Obsidian.
-
-Simply insert a Markdown code block labelled as `markmap` and optionally set the height of the mindmap as shown in the example below.
-
-Mindmaps can be created by simply writing the items as a Markdown list within the `markmap` code block, indenting each item to create as many sub-levels as you need:
-
-&lt;div class=&#34;highlight&#34;&gt;
-&lt;pre class=&#34;chroma&#34;&gt;
-&lt;code&gt;
-```markmap {height=&#34;200px&#34;}
-- Hugo Modules
-  - Hugo Blox
-  - blox-plugins-netlify
-  - blox-plugins-netlify-cms
-  - blox-plugins-reveal
-```
-&lt;/code&gt;
-&lt;/pre&gt;
-&lt;/div&gt;
-
-renders as
-
-```markmap {height=&#34;200px&#34;}
-- Hugo Modules
-  - Hugo Blox
-  - blox-plugins-netlify
-  - blox-plugins-netlify-cms
-  - blox-plugins-reveal
-```
-
-Anh here&#39;s a more advanced mindmap with formatting, code blocks, and math:
-
-&lt;div class=&#34;highlight&#34;&gt;
-&lt;pre class=&#34;chroma&#34;&gt;
-&lt;code&gt;
-```markmap
-- Mindmaps
-  - Links
-    - [Hugo Blox Docs](https://docs.hugoblox.com/)
-    - [Discord Community](https://discord.gg/z8wNYzb)
-    - [GitHub](https://github.com/HugoBlox/hugo-blox-builder)
-  - Features
-    - Markdown formatting
-    - **inline** ~~text~~ *styles*
-    - multiline
-      text
-    - `inline code`
-    -
-      ```js
-      console.log(&#39;hello&#39;);
-      console.log(&#39;code block&#39;);
-      ```
-    - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
-```
-&lt;/code&gt;
-&lt;/pre&gt;
-&lt;/div&gt;
-
-renders as
-
-```markmap
-- Mindmaps
-  - Links
-    - [Hugo Blox Docs](https://docs.hugoblox.com/)
-    - [Discord Community](https://discord.gg/z8wNYzb)
-    - [GitHub](https://github.com/HugoBlox/hugo-blox-builder)
-  - Features
-    - Markdown formatting
-    - **inline** ~~text~~ *styles*
-    - multiline
-      text
-    - `inline code`
-    -
-      ```js
-      console.log(&#39;hello&#39;);
-      console.log(&#39;code block&#39;);
-      ```
-    - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
-```
-
-## Highlighting
-
-&lt;mark&gt;Highlight&lt;/mark&gt; important text with `mark`:
-
-```html
-&lt;mark&gt;Highlighted text&lt;/mark&gt;
-```
-
-## Callouts
-
-Use [callouts](https://docs.hugoblox.com/reference/markdown/#callouts) (aka _asides_, _hints_, or _alerts_) to draw attention to notes, tips, and warnings.
-
-By wrapping a paragraph in `{{% callout note %}} ... {{% /callout %}}`, it will render as an aside.
-
-```markdown
-{{% callout note %}}
-A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-{{% /callout %}}
-```
-
-renders as
 
 
 
@@ -520,215 +285,16 @@ renders as
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
 &lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;A Markdown aside is useful for displaying notices, hints, or definitions to your readers.&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/span&gt;
 &lt;/div&gt;
 
-Or use the `warning` callout type so your readers don&#39;t miss critical details:
+Slides can be added in a few ways:
 
+- **Create** slides using Hugo Blox Builder&#39;s [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
 
-
-
-
-
-  
-    
-    
-    
-  
-
-&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-yellow-100 dark:bg-yellow-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-red-400&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M12 9v3.75m-9.303 3.376c-.866 1.5.217 3.374 1.948 3.374h14.71c1.73 0 2.813-1.874 1.948-3.374L13.949 3.378c-.866-1.5-3.032-1.5-3.898 0zM12 15.75h.007v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;A Markdown aside is useful for displaying notices, hints, or definitions to your readers.&lt;/span&gt;
-&lt;/div&gt;
-
-## Did you find this page helpful? Consider sharing it 🙌 --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://localhost:1313/sabnampandit/post/teach-courses/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sabnampandit/post/teach-courses/</guid>
-      <description>&lt;!-- ---
-title: 👩🏼‍🏫 Teach academic courses
-summary: Embed videos, podcasts, code, LaTeX math, and even test students!
-date: 2023-10-24
-math: true
-authors:
-  - admin
-tags:
-  - Hugo
-  - Hugo Blox Builder
-  - Markdown
-image:
-  caption: &#39;Embed rich media such as videos and LaTeX math&#39;
----
-
-[Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
-
-**Embed videos, podcasts, code, LaTeX math, and even test students!**
-
-On this page, you&#39;ll find some examples of the types of technical content that can be rendered with Hugo Blox.
-
-## Video
-
-Teach your course by sharing videos with your students. Choose from one of the following approaches:
-
-**Youtube**:
-
-    {{&lt; youtube D2vj0WcvH5c &gt;}}
-
-
-
-    
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/D2vj0WcvH5c?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
-    &lt;/div&gt;
-
-
-**Bilibili**:
-
-    {{&lt; bilibili BV1WV4y1r7DF &gt;}}
-
-&lt;div class=&#34;w-full h-auto aspect-video relative&#34;&gt;
-  &lt;iframe src=&#34;//player.bilibili.com/player.html?bvid=BV1WV4y1r7DF&amp;page=1&#34;
-  allow=&#34;accelerometer; clipboard-write; encrypted-media; gyroscope; fullscreen; picture-in-picture;&#34;
-  class=&#34;w-full h-full&#34;
-  &gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-**Video file**
-
-Videos may be added to a page by either placing them in your `assets/media/` media library or in your [page&#39;s folder](https://gohugo.io/content-management/page-bundles/), and then embedding them with the _video_ shortcode:
-
-    {{&lt; video src=&#34;my_video.mp4&#34; controls=&#34;yes&#34; &gt;}}
-
-## Podcast
-
-You can add a podcast or music to a page by placing the MP3 file in the page&#39;s folder or the media library folder and then embedding the audio on your page with the _audio_ shortcode:
-
-    {{&lt; audio src=&#34;ambient-piano.mp3&#34; &gt;}}
-
-Try it out:
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-&lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:1313/sabnampandit/sabnampandit/post/teach-courses/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
-&lt;/audio&gt;
-
-
-## Test students
-
-Provide a simple yet fun self-assessment by revealing the solutions to challenges with the `spoiler` shortcode:
-
-```markdown
-{{&lt; spoiler text=&#34;👉 Click to view the solution&#34; &gt;}}
-You found me!
-{{&lt; /spoiler &gt;}}
-```
-
-renders as
-
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-3&#34;&gt;
-  &lt;summary class=&#34;cursor-pointer&#34;&gt;👉 Click to view the solution&lt;/summary&gt;
-  &lt;div class=&#34;rounded-lg bg-neutral-50 dark:bg-neutral-800 p-2&#34;&gt;
-    You found me 🎉
-  &lt;/div&gt;
-&lt;/details&gt;
-
-## Math
-
-Hugo Blox Builder supports a Markdown extension for $\LaTeX$ math. Enable math by setting the `math: true` option in your page&#39;s front matter, or enable math for your entire site by toggling math in your `config/_default/params.yaml` file:
-
-```yaml
-features:
-  math:
-    enable: true
-```
-
-To render _inline_ or _block_ math, wrap your LaTeX math with `$...$` or `$$...$$`, respectively.
-
-Example **math block**:
-
-```latex
-$$
-\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}
-$$
-```
-
-renders as
-
-$$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
-
-Example **inline math** `$\nabla F(\mathbf{x}_{n})$` renders as $\nabla F(\mathbf{x}_{n})$.
-
-Example **multi-line math** using the math linebreak (`\\`):
-
-```latex
-$$f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} &amp; \text{if }k=1, \\
-1-p_{0}^{*} &amp; \text{if }k=0.\end{cases}$$
-```
-
-renders as
-
-$$
-f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} &amp; \text{if }k=1, \\
-1-p_{0}^{*} &amp; \text{if }k=0.\end{cases}
-$$
-
-## Code
-
-Hugo Blox Builder utilises Hugo&#39;s Markdown extension for highlighting code syntax. The code theme can be selected in the `config/_default/params.yaml` file.
-
-
-    ```python
-    import pandas as pd
-    data = pd.read_csv(&#34;data.csv&#34;)
-    data.head()
-    ```
-
-renders as
-
-```python
-import pandas as pd
-data = pd.read_csv(&#34;data.csv&#34;)
-data.head()
-```
-
-## Inline Images
-
-```go
-{{&lt; icon name=&#34;python&#34; &gt;}} Python
-```
-
-renders as
-
-
-  &lt;span class=&#34;inline-block  pr-1&#34;&gt;
-    &lt;svg style=&#34;height: 1em; transform: translateY(0.1em);&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; height=&#34;1em&#34; viewBox=&#34;0 0 448 512&#34; fill=&#34;currentColor&#34;&gt;&lt;path d=&#34;M439.8 200.5c-7.7-30.9-22.3-54.2-53.4-54.2h-40.1v47.4c0 36.8-31.2 67.8-66.8 67.8H172.7c-29.2 0-53.4 25-53.4 54.3v101.8c0 29 25.2 46 53.4 54.3 33.8 9.9 66.3 11.7 106.8 0 26.9-7.8 53.4-23.5 53.4-54.3v-40.7H226.2v-13.6h160.2c31.1 0 42.6-21.7 53.4-54.2 11.2-33.5 10.7-65.7 0-108.6zM286.2 404c11.1 0 20.1 9.1 20.1 20.3 0 11.3-9 20.4-20.1 20.4-11 0-20.1-9.2-20.1-20.4.1-11.3 9.1-20.3 20.1-20.3zM167.8 248.1h106.8c29.7 0 53.4-24.5 53.4-54.3V91.9c0-29-24.4-50.7-53.4-55.6-35.8-5.9-74.7-5.6-106.8.1-45.2 8-53.4 24.7-53.4 55.6v40.7h106.9v13.6h-147c-31.1 0-58.3 18.7-66.8 54.2-9.8 40.7-10.2 66.1 0 108.6 7.6 31.6 25.7 54.2 56.8 54.2H101v-48.8c0-35.3 30.5-66.4 66.8-66.4zm-6.7-142.6c-11.1 0-20.1-9.1-20.1-20.3.1-11.3 9-20.4 20.1-20.4 11 0 20.1 9.2 20.1 20.4s-9 20.3-20.1 20.3z&#34;/&gt;&lt;/svg&gt;
-  &lt;/span&gt; Python
-
-## Did you find this page helpful? Consider sharing it 🙌 --&gt;
+Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page. --&gt;
 </description>
     </item>
     
@@ -738,116 +304,105 @@ renders as
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/sabnampandit/publication/conference-paper/</guid>
       <description>&lt;!-- ---
-title: &#39;An example conference paper&#39;
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
+title: 🎓 I Just Graduated!
+summary: Reflections from my Master’s in Big Data Analytics at San Diego State University
+date: 2025-05-18
+math: true
 authors:
   - admin
-  - Robert Ford
-
-# Author notes (optional)
-author_notes:
-  - &#39;Equal contribution&#39;
-  - &#39;Equal contribution&#39;
-
-date: &#39;2013-07-01T00:00:00Z&#39;
-doi: &#39;&#39;
-
-# Schedule page publish date (NOT publication&#39;s date).
-publishDate: &#39;2017-01-01T00:00:00Z&#39;
-
-# Publication type.
-# Accepts a single type but formatted as a YAML list (for Hugo requirements).
-# Enter a publication type from the CSL standard.
-publication_types: [&#39;paper-conference&#39;]
-
-# Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
 tags:
-  - Large Language Models
-
-# Display this page in the Featured widget?
-featured: true
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: &#39;&#39;
-url_code: &#39;https://github.com/HugoBlox/hugo-blox-builder&#39;
-url_dataset: &#39;https://github.com/HugoBlox/hugo-blox-builder&#39;
-url_poster: &#39;&#39;
-url_project: &#39;&#39;
-url_slides: &#39;&#39;
-url_source: &#39;https://github.com/HugoBlox/hugo-blox-builder&#39;
-url_video: &#39;https://youtube.com&#39;
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page&#39;s folder.
+  - Class of 2025
+  - Graduated
 image:
-  caption: &#39;Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)&#39;
-  focal_point: &#39;&#39;
-  preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project&#39;s folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-  - example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck&#39;s filename without extension.
-#   E.g. `slides: &#34;example&#34;` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: &#34;&#34;`.
-slides: example
+  path: &#34;images/graduation.jpg&#34;
+  caption: &#34;Embed rich media such as videos and LaTeX math&#34;
 ---
 
+# 🎓 I Just Graduated! A Journey of Growth, Grit, and Gratitude
 
+*Reflections from my Master’s in Big Data Analytics at San Diego State University*
 
+---
 
+## The Beginning: Excitement, Nervousness, and Determination
 
+I just graduated with my Master’s in **Big Data Analytics** from SDSU! After months of hard work, late-night coding sessions, and unforgettable memories, I’m finally holding that diploma in my hands.  
 
-  
-    
-  
+I still remember opening my admission email — a mix of excitement, nervousness, and sheer determination. Orientation at **Storm Hall** was the official beginning. Meeting my cohort — brilliant minds from around the world — was overwhelming in the best way possible.  
 
-&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
-&lt;/div&gt;
+&gt; “By the end of this journey, I didn’t just earn a degree — I began shaping myself into a Data Scientist.”
 
+From day one, I told myself: *“Give it your all.”* I had come to a new country, full of opportunities, determined to make the most of it.
 
+---
 
+## 💻 Experiences That Shaped Me
 
+### My First Project: Image Caption Generation with Custom Music Recommendation
 
+I was a complete beginner, learning, stumbling, and doubting myself — but the joy of finally seeing it work was unforgettable.  
 
-  
-    
-  
+Those late nights spent debugging code were intense. When the model finally ran, a mix of relief, triumph, and confidence washed over me — a true *‘bring it on’* feeling.  
 
-&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
-&lt;/div&gt;
+![Project Screenshot](images/project-screenshot.png)  
 
-Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+---
+
+### Research with San Diego Zoo
+
+Working with my professor on a project in collaboration with the **San Diego Zoo Safari Park** was surreal. Driving to the park to present our findings gave me my first taste of academic research and boosted my confidence to share work publicly.  
+
+![San Diego Zoo](images/sd-zoo-photo.jpg)  
+
+---
+
+### GMIS Conference &amp; Teaching Assistant Experience
+
+Attending **GMIS (Great Minds in STEM)** was inspiring — filled with knowledge, networking, and a glimpse into what’s possible.  
+
+Being a Teaching Assistant for **Advanced Programming Languages** was terrifying at first, but every week I gained more confidence. Proctoring an in-person exam for 65 students on my own was a small victory that whispered, *“Hey, maybe you could teach someday.”*  
+
+---
+
+## 🔄 Lessons I’d Share With My Past Self
+
+While I’m proud of my journey, there are a few things I’d approach differently:
+
+- 🎓 **It’s not just about the course — it’s about the professor.**  
+  Research teaching styles and past student experiences; mentorship matters.
+
+- 📚 **Take a class from a professor you admire.**  
+  Don’t wait. Reach out early and find ways to collaborate.
+
+- 💼 **Start preparing for internships immediately.**  
+  Resume, cover letters, LinkedIn — start early. Timing can make all the difference.
+
+- 💡 **Ask for help and take risks.**  
+  Growth comes from stepping out of your comfort zone.
+
+---
+
+## 🏅 BDA Excellence Award &amp; What’s Next
+
+I’m thrilled to share that I graduated with a **4.0 GPA** and received the **BDA Excellence Certificate**, a proud moment symbolizing all the effort, perseverance, and growth over the past two years.  
+
+Now, I’m ready to dive into the real world — eager to apply my skills, discover new ones, and explore the full extent of my potential. The learning doesn’t stop here. I’m on it. 💪  
+
+---
+
+## ✨ Reflections
+
+Two years ago, I was nervous about stepping into a new country, a new educational system, and an entirely new field. Today, I’m grateful — for the challenges, the failures, the late nights, the mentors, and the friends who made this journey unforgettable.  
+
+&gt; *“Embrace every moment. The struggles, the excitement, the tiny wins — they all shape you in ways you’ll only realize later.”*
+
+To anyone reading this who’s about to embark on a similar path: keep learning, stay curious, and trust the process.
+
+---
+
+## Connect with Me
+
+[LinkedIn](https://www.linkedin.com/) | [Portfolio](https://yourportfolio.com/) | [Email](mailto:youremail@example.com) --&gt;
 </description>
     </item>
     
@@ -857,104 +412,105 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/sabnampandit/publication/journal-article/</guid>
       <description>&lt;!-- ---
-title: &#34;An example journal article&#34;
+title: 🎓 I Just Graduated!
+summary: Reflections from my Master’s in Big Data Analytics at San Diego State University
+date: 2025-05-18
+math: true
 authors:
-- admin
-- Robert Ford
-author_notes:
-- &#34;Equal contribution&#34;
-- &#34;Equal contribution&#34;
-date: &#34;2015-09-01T00:00:00Z&#34;
-doi: &#34;&#34;
-
-# Schedule page publish date (NOT publication&#39;s date).
-publishDate: &#34;2017-01-01T00:00:00Z&#34;
-
-# Publication type.
-# Accepts a single type but formatted as a YAML list (for Hugo requirements).
-# Enter a publication type from the CSL standard.
-publication_types: [&#34;article-journal&#34;]
-
-# Publication name and optional abbreviated publication name.
-publication: &#34;*Journal of Source Themes, 1*(1)&#34;
-publication_short: &#34;&#34;
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
+  - admin
 tags:
-- Source Themes
-featured: false
-
-# links:
-# - name: &#34;&#34;
-#   url: &#34;&#34;
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: &#39;https://github.com/HugoBlox/hugo-blox-builder&#39;
-url_dataset: &#39;&#39;
-url_poster: &#39;&#39;
-url_project: &#39;&#39;
-url_slides: &#39;&#39;
-url_source: &#39;&#39;
-url_video: &#39;&#39;
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page&#39;s folder. 
+  - Class of 2025
+  - Graduated
 image:
-  caption: &#39;Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)&#39;
-  focal_point: &#34;&#34;
-  preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project&#39;s folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects: []
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck&#39;s filename without extension.
-#   E.g. `slides: &#34;example&#34;` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: &#34;&#34;`.
-slides: example
+  path: &#34;images/graduation.jpg&#34;
+  caption: &#34;Embed rich media such as videos and LaTeX math&#34;
 ---
 
+# 🎓 I Just Graduated! A Journey of Growth, Grit, and Gratitude
 
+*Reflections from my Master’s in Big Data Analytics at San Diego State University*
 
+---
 
+## The Beginning: Excitement, Nervousness, and Determination
 
+I just graduated with my Master’s in **Big Data Analytics** from SDSU! After months of hard work, late-night coding sessions, and unforgettable memories, I’m finally holding that diploma in my hands.  
 
-  
-    
-  
+I still remember opening my admission email — a mix of excitement, nervousness, and sheer determination. Orientation at **Storm Hall** was the official beginning. Meeting my cohort — brilliant minds from around the world — was overwhelming in the best way possible.  
 
-&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
-&lt;/div&gt;
+&gt; “By the end of this journey, I didn’t just earn a degree — I began shaping myself into a Data Scientist.”
 
+From day one, I told myself: *“Give it your all.”* I had come to a new country, full of opportunities, determined to make the most of it.
 
+---
 
+## 💻 Experiences That Shaped Me
 
+### My First Project: Image Caption Generation with Custom Music Recommendation
 
+I was a complete beginner, learning, stumbling, and doubting myself — but the joy of finally seeing it work was unforgettable.  
 
-  
-    
-  
+Those late nights spent debugging code were intense. When the model finally ran, a mix of relief, triumph, and confidence washed over me — a true *‘bring it on’* feeling.  
 
-&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
-&lt;/div&gt;
+![Project Screenshot](images/project-screenshot.png)  
 
-Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+---
+
+### Research with San Diego Zoo
+
+Working with my professor on a project in collaboration with the **San Diego Zoo Safari Park** was surreal. Driving to the park to present our findings gave me my first taste of academic research and boosted my confidence to share work publicly.  
+
+![San Diego Zoo](images/sd-zoo-photo.jpg)  
+
+---
+
+### GMIS Conference &amp; Teaching Assistant Experience
+
+Attending **GMIS (Great Minds in STEM)** was inspiring — filled with knowledge, networking, and a glimpse into what’s possible.  
+
+Being a Teaching Assistant for **Advanced Programming Languages** was terrifying at first, but every week I gained more confidence. Proctoring an in-person exam for 65 students on my own was a small victory that whispered, *“Hey, maybe you could teach someday.”*  
+
+---
+
+## 🔄 Lessons I’d Share With My Past Self
+
+While I’m proud of my journey, there are a few things I’d approach differently:
+
+- 🎓 **It’s not just about the course — it’s about the professor.**  
+  Research teaching styles and past student experiences; mentorship matters.
+
+- 📚 **Take a class from a professor you admire.**  
+  Don’t wait. Reach out early and find ways to collaborate.
+
+- 💼 **Start preparing for internships immediately.**  
+  Resume, cover letters, LinkedIn — start early. Timing can make all the difference.
+
+- 💡 **Ask for help and take risks.**  
+  Growth comes from stepping out of your comfort zone.
+
+---
+
+## 🏅 BDA Excellence Award &amp; What’s Next
+
+I’m thrilled to share that I graduated with a **4.0 GPA** and received the **BDA Excellence Certificate**, a proud moment symbolizing all the effort, perseverance, and growth over the past two years.  
+
+Now, I’m ready to dive into the real world — eager to apply my skills, discover new ones, and explore the full extent of my potential. The learning doesn’t stop here. I’m on it. 💪  
+
+---
+
+## ✨ Reflections
+
+Two years ago, I was nervous about stepping into a new country, a new educational system, and an entirely new field. Today, I’m grateful — for the challenges, the failures, the late nights, the mentors, and the friends who made this journey unforgettable.  
+
+&gt; *“Embrace every moment. The struggles, the excitement, the tiny wins — they all shape you in ways you’ll only realize later.”*
+
+To anyone reading this who’s about to embark on a similar path: keep learning, stay curious, and trust the process.
+
+---
+
+## Connect with Me
+
+[LinkedIn](https://www.linkedin.com/) | [Portfolio](https://yourportfolio.com/) | [Email](mailto:youremail@example.com) --&gt;
 </description>
     </item>
     

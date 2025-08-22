@@ -82,13 +82,33 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-       ####  Large Language Models for Similarity and Contradiction Analysis in Cardiovascular Research
+       ###  Large Language Models for Similarity and Contradiction Analysis in Cardiovascular Research
+       Cardiovascular disease research generates thousands of papers each year, making it challenging to track which studies align or contradict each other. My project explored how *large language models (LLMs)* can analyze medical literature to identify dominant topics, detect similarities and contradictions, and extract key facts from abstracts.
+       ##### What I Did:
+       - Grouped research papers into topics using *LDA (Gensim)* and tracked topic evolution.  
+       - Used *LLMs (Llama, Orca, Gemini)* and *sentence embeddings* to compare abstracts and detect contradictions.  
+       - Extracted structured facts from abstracts with *prompt engineering*, improving consistency and reliability.  
+       - Visualized similarity distributions using *histograms and boxplots* to reveal patterns across topics.
+       
+       ##### Key Insights
+       - Contradictions within topics were rare; papers often explore different angles of the same topic.  
+       - Topic cohesion varies—“risk factors” were more aligned, “gene expression” more diverse.  
+       - Larger models and carefully crafted prompts produce more accurate results.
+       #### Tools & Skills
+       Python (Pandas, NLTK, Matplotlib), Gensim, SentenceTransformers, LLMs, NLP preprocessing, data visualization, prompt engineering.
 
-        Utilized advanced language models like LLama 8B Instruct with in-context learning to extract facts, identify leading topics, and analyze similarities, contradictions, and connections across research abstracts. Applied cosine similarity analysis to identify coherence within leading topics in cardiovascular research.
 
-       #### Animals audio Data Analysis 
+      
 
-       Transformed animals, insects and birds audio recordings into high-dimensional embeddings using Transformer models.  Investigating patterns in the embeddings with the help of unsupervised clustering algorithm to derive meaningful insights and trends based on analysis of cluster information and spectrogram of audio.
+
+
+       ### Animals audio Data Analysis 
+
+       I worked on a research project analyzing environmental audio recordings from the Peruvian Amazon to study biodiversity through soundscapes. Using Python, signal processing, and machine learning techniques, I processed over 192 minutes of raw audio to extract acoustic features, generate spectrograms, and identify patterns in species activity. This project highlights how bioacoustics can support ecological monitoring and conservation efforts. You can read more about the project here:
+       <a href="https://sites.google.com/sdsu.edu/soundscape-analysis/home" target="_blank" style="display:inline-block;padding:10px 20px;background:#007ACC;color:#fff;border-radius:8px;text-decoration:none;">
+       🌱 Visit Soundscape Analysis Project
+       </a>
+
     design:
       columns: '1'
 

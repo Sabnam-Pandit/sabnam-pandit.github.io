@@ -1,5 +1,5 @@
----
-title: Publications
+<!-- ---
+title: Blog
 cms_exclude: true
 
 # View.
@@ -9,4 +9,4 @@ view: citation
 banner:
   caption: ''
   image: ''
----
+--- -->

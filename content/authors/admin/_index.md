@@ -9,8 +9,8 @@ first_name: Sabnam
 last_name: Pandit
 
 # Status emoji
-# status:
-  # icon: ☕️
+status:
+  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -19,7 +19,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Graduate Student/ Data Scientist
+role: Data Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -255,8 +255,10 @@ languages:
 
 ## About Me
 
-I am a graduate student in the Big Data Analytics program at San Diego State University. Before this, I completed my Bachelor's degree in Computer Science, followed by an MBA-IT. My professional journey includes nearly a year of valuable experience working as a QA Engineer in the Fintech industry.
+I like to call myself a Data Scientist, though my journey here has been anything but linear. It started with Computer Engineering, where I built a strong technical foundation. Then came an MBA in IT, which opened my eyes to the business side of technology and how data connects to real-world decisions. But it was during my Master’s in Big Data Analytics at San Diego State University that everything clicked,I discovered how much I loved working with data, asking questions, and finding answers hidden in patterns.
 
-My passion for problem-solving has been a constant throughout my academic journey and my brief stint in the corporate world. This passion has led me to develop a keen interest in data and the data-driven landscape, where I recognize the pivotal role data plays in today's world. I consider myself a naturally curious individual with a solid foundation in technical skills. I am well-versed in the latest technology trends, possess strong programming skills, and am proficient in Machine Learning and Deep Learning.
+For me, data science is more than code, models, or algorithms. It’s about curiosity. It’s about asking the right questions, solving complex problems, and building intelligent systems that can uncover patterns, generate insights, and even predict what’s next. I love the creative challenge of turning raw data into something meaningful, something that can drive decisions or inspire new ways of thinking.
 
-I intend to build a career in data science, where I can leverage my skills and curiosity to uncover valuable insights from data. I am excited about the opportunities to contribute to this field and make a meaningful impact through data-driven solutions.
+But beyond the world of data, I’m a curious explorer of life. I’m a foodie 🍴 who loves discovering new cafes, bakeries, and coffee spots ☕. I enjoy picking up new hobbies, trying new things, and diving into anything that sparks my curiosity.
+
+At heart, I’m a lifelong learner, driven by curiosity, fueled by creativity (and caffeine), and excited about building, learning, and exploring what comes next.
