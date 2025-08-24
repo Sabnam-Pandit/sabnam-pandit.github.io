@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Class of 2025 | Sabnam Pandit</title>
-    <link>http://localhost:1313/sabnampandit/tags/class-of-2025/</link>
-      <atom:link href="http://localhost:1313/sabnampandit/tags/class-of-2025/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:56994/tags/class-of-2025/</link>
+      <atom:link href="http://localhost:56994/tags/class-of-2025/index.xml" rel="self" type="application/rss+xml" />
     <description>Class of 2025</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 18 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/sabnampandit/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:56994/media/icon_hu7729264130191091259.png</url>
       <title>Class of 2025</title>
-      <link>http://localhost:1313/sabnampandit/tags/class-of-2025/</link>
+      <link>http://localhost:56994/tags/class-of-2025/</link>
     </image>
     
     <item>
       <title>🎓 I Just Graduated!</title>
-      <link>http://localhost:1313/sabnampandit/blogs/data-visualization/</link>
+      <link>http://localhost:56994/blogs/data-visualization/</link>
       <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sabnampandit/blogs/data-visualization/</guid>
+      <guid>http://localhost:56994/blogs/data-visualization/</guid>
       <description>&lt;h1 id=&#34;-i-just-graduated-a-journey-of-growth-grit-and-gratitude&#34;&gt;🎓 I Just Graduated! A Journey of Growth, Grit, and Gratitude&lt;/h1&gt;
 &lt;p&gt;&lt;em&gt;Reflections from my Master’s in Big Data Analytics at San Diego State University&lt;/em&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -54,10 +54,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;San Diego Zoo&#34; srcset=&#34;
-               /sabnampandit/blogs/data-visualization/IMG_3083_hu14423639031506147919.webp 400w,
-               /sabnampandit/blogs/data-visualization/IMG_3083_hu6301998562049629624.webp 760w,
-               /sabnampandit/blogs/data-visualization/IMG_3083_hu11614565346392919939.webp 1200w&#34;
-               src=&#34;http://localhost:1313/sabnampandit/sabnampandit/blogs/data-visualization/IMG_3083_hu14423639031506147919.webp&#34;
+               /blogs/data-visualization/IMG_3083_hu14423639031506147919.webp 400w,
+               /blogs/data-visualization/IMG_3083_hu6301998562049629624.webp 760w,
+               /blogs/data-visualization/IMG_3083_hu11614565346392919939.webp 1200w&#34;
+               src=&#34;http://localhost:56994/blogs/data-visualization/IMG_3083_hu14423639031506147919.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -109,10 +109,10 @@ Growth comes from stepping out of your comfort zone.&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;BDA Excellence Award&#34; srcset=&#34;
-               /sabnampandit/blogs/data-visualization/BDA_hu14788389791571755406.webp 400w,
-               /sabnampandit/blogs/data-visualization/BDA_hu6129197088244695018.webp 760w,
-               /sabnampandit/blogs/data-visualization/BDA_hu458919894707480701.webp 1200w&#34;
-               src=&#34;http://localhost:1313/sabnampandit/sabnampandit/blogs/data-visualization/BDA_hu14788389791571755406.webp&#34;
+               /blogs/data-visualization/BDA_hu14788389791571755406.webp 400w,
+               /blogs/data-visualization/BDA_hu6129197088244695018.webp 760w,
+               /blogs/data-visualization/BDA_hu458919894707480701.webp 1200w&#34;
+               src=&#34;http://localhost:56994/blogs/data-visualization/BDA_hu14788389791571755406.webp&#34;
                width=&#34;760&#34;
                height=&#34;592&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

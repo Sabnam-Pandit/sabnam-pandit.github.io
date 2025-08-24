@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R Programming | Sabnam Pandit</title>
-    <link>http://localhost:1313/sabnampandit/tags/r-programming/</link>
-      <atom:link href="http://localhost:1313/sabnampandit/tags/r-programming/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:56994/tags/r-programming/</link>
+      <atom:link href="http://localhost:56994/tags/r-programming/index.xml" rel="self" type="application/rss+xml" />
     <description>R Programming</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 03 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/sabnampandit/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:56994/media/icon_hu7729264130191091259.png</url>
       <title>R Programming</title>
-      <link>http://localhost:1313/sabnampandit/tags/r-programming/</link>
+      <link>http://localhost:56994/tags/r-programming/</link>
     </image>
     
     <item>
       <title>Exploring the History of Unemployment Rates in the United States</title>
-      <link>http://localhost:1313/sabnampandit/project/timeseries/</link>
+      <link>http://localhost:56994/project/timeseries/</link>
       <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sabnampandit/project/timeseries/</guid>
+      <guid>http://localhost:56994/project/timeseries/</guid>
       <description>&lt;p&gt;This project explores the historical unemployment rates in the United States using time series forecasting techniques. The analysis focuses on state-specific trends, gender-based unemployment rates, and overall unemployment trends. The goal is to identify patterns, seasonality, and factors influencing unemployment, and to forecast future unemployment rates using ARIMA and SARIMA models.Statistical algorithms were utilized to make short- term and long-term
 predictions. This analysis is crucial as unemployment rates are key economic indicators that
 directly impact policymaking, business planning, and personal well-being.&lt;/p&gt;</description>

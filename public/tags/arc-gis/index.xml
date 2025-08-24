@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Arc GIS | Sabnam Pandit</title>
-    <link>http://localhost:1313/sabnampandit/tags/arc-gis/</link>
-      <atom:link href="http://localhost:1313/sabnampandit/tags/arc-gis/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:56994/tags/arc-gis/</link>
+      <atom:link href="http://localhost:56994/tags/arc-gis/index.xml" rel="self" type="application/rss+xml" />
     <description>Arc GIS</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 26 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/sabnampandit/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:56994/media/icon_hu7729264130191091259.png</url>
       <title>Arc GIS</title>
-      <link>http://localhost:1313/sabnampandit/tags/arc-gis/</link>
+      <link>http://localhost:56994/tags/arc-gis/</link>
     </image>
     
     <item>
       <title>Supply and Demand of EV Charging Stations in Relation to EV Population in Washington State</title>
-      <link>http://localhost:1313/sabnampandit/project/evchargingstations/</link>
+      <link>http://localhost:56994/project/evchargingstations/</link>
       <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sabnampandit/project/evchargingstations/</guid>
+      <guid>http://localhost:56994/project/evchargingstations/</guid>
       <description>&lt;p&gt;Explore the supply and demand of EV charging stations across Washington State in relation to the EV population. This analysis also considers &lt;strong&gt;income and education levels&lt;/strong&gt; as factors influencing the distribution of charging stations.&lt;/p&gt;
 &lt;!-- Separate button below the card --&gt;
 &lt;p style=&#34;text-align:center; margin-top:20px;&#34;&gt;

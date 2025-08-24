@@ -255,7 +255,7 @@ languages:
 
 ## About Me
 
-I like to call myself a Data Scientist, though my journey here has been anything but linear. It started with Computer Engineering, where I built a strong technical foundation. Then came an MBA in IT, which opened my eyes to the business side of technology and how data connects to real-world decisions. But it was during my Master’s in Big Data Analytics at San Diego State University that everything clicked,I discovered how much I loved working with data, asking questions, and finding answers hidden in patterns.
+I am a Data Scientist, though my journey here has been anything but linear. It started with Computer Engineering, where I built a strong technical foundation. Then came an MBA in IT, which opened my eyes to the business side of technology and how data connects to real-world decisions. But it was during my Master’s in Big Data Analytics at San Diego State University that everything clicked,I discovered how much I loved working with data, asking questions, and finding answers hidden in patterns.
 
 For me, data science is more than code, models, or algorithms. It’s about curiosity. It’s about asking the right questions, solving complex problems, and building intelligent systems that can uncover patterns, generate insights, and even predict what’s next. I love the creative challenge of turning raw data into something meaningful, something that can drive decisions or inspire new ways of thinking.
 

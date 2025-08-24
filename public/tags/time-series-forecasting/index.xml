@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Time Series Forecasting | Sabnam Pandit</title>
-    <link>http://localhost:1313/sabnampandit/tags/time-series-forecasting/</link>
-      <atom:link href="http://localhost:1313/sabnampandit/tags/time-series-forecasting/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:56994/tags/time-series-forecasting/</link>
+      <atom:link href="http://localhost:56994/tags/time-series-forecasting/index.xml" rel="self" type="application/rss+xml" />
     <description>Time Series Forecasting</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 03 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/sabnampandit/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:56994/media/icon_hu7729264130191091259.png</url>
       <title>Time Series Forecasting</title>
-      <link>http://localhost:1313/sabnampandit/tags/time-series-forecasting/</link>
+      <link>http://localhost:56994/tags/time-series-forecasting/</link>
     </image>
     
     <item>
       <title>Exploring the History of Unemployment Rates in the United States</title>
-      <link>http://localhost:1313/sabnampandit/project/timeseries/</link>
+      <link>http://localhost:56994/project/timeseries/</link>
       <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sabnampandit/project/timeseries/</guid>
+      <guid>http://localhost:56994/project/timeseries/</guid>
       <description>&lt;p&gt;This project explores the historical unemployment rates in the United States using time series forecasting techniques. The analysis focuses on state-specific trends, gender-based unemployment rates, and overall unemployment trends. The goal is to identify patterns, seasonality, and factors influencing unemployment, and to forecast future unemployment rates using ARIMA and SARIMA models.Statistical algorithms were utilized to make short- term and long-term
 predictions. This analysis is crucial as unemployment rates are key economic indicators that
 directly impact policymaking, business planning, and personal well-being.&lt;/p&gt;</description>
@@ -24,9 +24,9 @@ directly impact policymaking, business planning, and personal well-being.&lt;/p&
     
     <item>
       <title>Energy Consumption and Generation Prediction based on Weather Conditions</title>
-      <link>http://localhost:1313/sabnampandit/project/energypred/</link>
+      <link>http://localhost:56994/project/energypred/</link>
       <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sabnampandit/project/energypred/</guid>
+      <guid>http://localhost:56994/project/energypred/</guid>
       <description>&lt;p&gt;This project aims to predict energy consumption and generation based on weather conditions in Spain, using machine learning algorithms and the Kaggle dataset &amp;ldquo;Hourly energy demand generation and weather&amp;rdquo;. Our goal is to promote renewable energy generation and reduce carbon emissions.&lt;/p&gt;</description>
     </item>
     

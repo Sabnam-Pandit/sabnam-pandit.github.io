@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Sabnam Pandit</title>
-    <link>http://localhost:1313/sabnampandit/project/</link>
-      <atom:link href="http://localhost:1313/sabnampandit/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:56994/project/</link>
+      <atom:link href="http://localhost:56994/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 04 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/sabnampandit/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:56994/media/icon_hu7729264130191091259.png</url>
       <title>Projects</title>
-      <link>http://localhost:1313/sabnampandit/project/</link>
+      <link>http://localhost:56994/project/</link>
     </image>
     
     <item>
       <title>Book Genre Prediction</title>
-      <link>http://localhost:1313/sabnampandit/project/bookgenreprediction/</link>
+      <link>http://localhost:56994/project/bookgenreprediction/</link>
       <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sabnampandit/project/bookgenreprediction/</guid>
+      <guid>http://localhost:56994/project/bookgenreprediction/</guid>
       <description>&lt;p&gt;This project focuses on predicting the genre of a book based on its description using Natural Language Processing (NLP) techniques. The goal is to help readers find books they are more likely to enjoy by accurately classifying books into their respective genres. We fine-tuned multiple pre-trained language models (BERT, RoBERTa, and DistilBERT) to achieve this task.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Exploring the History of Unemployment Rates in the United States</title>
-      <link>http://localhost:1313/sabnampandit/project/timeseries/</link>
+      <link>http://localhost:56994/project/timeseries/</link>
       <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sabnampandit/project/timeseries/</guid>
+      <guid>http://localhost:56994/project/timeseries/</guid>
       <description>&lt;p&gt;This project explores the historical unemployment rates in the United States using time series forecasting techniques. The analysis focuses on state-specific trends, gender-based unemployment rates, and overall unemployment trends. The goal is to identify patterns, seasonality, and factors influencing unemployment, and to forecast future unemployment rates using ARIMA and SARIMA models.Statistical algorithms were utilized to make short- term and long-term
 predictions. This analysis is crucial as unemployment rates are key economic indicators that
 directly impact policymaking, business planning, and personal well-being.&lt;/p&gt;</description>
@@ -32,25 +32,25 @@ directly impact policymaking, business planning, and personal well-being.&lt;/p&
     
     <item>
       <title>Energy Consumption and Generation Prediction based on Weather Conditions</title>
-      <link>http://localhost:1313/sabnampandit/project/energypred/</link>
+      <link>http://localhost:56994/project/energypred/</link>
       <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sabnampandit/project/energypred/</guid>
+      <guid>http://localhost:56994/project/energypred/</guid>
       <description>&lt;p&gt;This project aims to predict energy consumption and generation based on weather conditions in Spain, using machine learning algorithms and the Kaggle dataset &amp;ldquo;Hourly energy demand generation and weather&amp;rdquo;. Our goal is to promote renewable energy generation and reduce carbon emissions.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Multivariate Crime Data Visualization by States</title>
-      <link>http://localhost:1313/sabnampandit/project/crimeanalysis/</link>
+      <link>http://localhost:56994/project/crimeanalysis/</link>
       <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sabnampandit/project/crimeanalysis/</guid>
+      <guid>http://localhost:56994/project/crimeanalysis/</guid>
       <description>&lt;p&gt;This project is a multivariate crime data visualization tool built using p5.js. It provides an interactive interface to explore historical crime data across U.S. states. Users can view trends over time and understand the distribution of various crime types.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Supply and Demand of EV Charging Stations in Relation to EV Population in Washington State</title>
-      <link>http://localhost:1313/sabnampandit/project/evchargingstations/</link>
+      <link>http://localhost:56994/project/evchargingstations/</link>
       <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sabnampandit/project/evchargingstations/</guid>
+      <guid>http://localhost:56994/project/evchargingstations/</guid>
       <description>&lt;p&gt;Explore the supply and demand of EV charging stations across Washington State in relation to the EV population. This analysis also considers &lt;strong&gt;income and education levels&lt;/strong&gt; as factors influencing the distribution of charging stations.&lt;/p&gt;
 &lt;!-- Separate button below the card --&gt;
 &lt;p style=&#34;text-align:center; margin-top:20px;&#34;&gt;
@@ -62,9 +62,9 @@ directly impact policymaking, business planning, and personal well-being.&lt;/p&
     
     <item>
       <title>Image-Driven Captioning and Custom Music Recommendations</title>
-      <link>http://localhost:1313/sabnampandit/project/imagecaption/</link>
+      <link>http://localhost:56994/project/imagecaption/</link>
       <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sabnampandit/project/imagecaption/</guid>
+      <guid>http://localhost:56994/project/imagecaption/</guid>
       <description>&lt;p&gt;We aim to develop an Image Captioning and Music Recommendation System which accepts images as input and produces platform suitable captions and music as an output.&lt;/p&gt;</description>
     </item>
     

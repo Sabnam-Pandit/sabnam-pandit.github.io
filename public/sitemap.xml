@@ -2,149 +2,149 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/sabnampandit/blogs/data-visualization/</loc>
+    <loc>http://localhost:56994/blogs/data-visualization/</loc>
     <lastmod>2025-05-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/sabnampandit/blogs/</loc>
+    <loc>http://localhost:56994/blogs/</loc>
     <lastmod>2025-05-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/sabnampandit/tags/class-of-2025/</loc>
+    <loc>http://localhost:56994/tags/class-of-2025/</loc>
     <lastmod>2025-05-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/sabnampandit/tags/graduated/</loc>
+    <loc>http://localhost:56994/tags/graduated/</loc>
     <lastmod>2025-05-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/sabnampandit/tags/</loc>
+    <loc>http://localhost:56994/tags/</loc>
     <lastmod>2025-05-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/sabnampandit/project/bookgenreprediction/</loc>
+    <loc>http://localhost:56994/project/bookgenreprediction/</loc>
     <lastmod>2024-12-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/sabnampandit/tags/language-models/</loc>
+    <loc>http://localhost:56994/tags/language-models/</loc>
     <lastmod>2024-12-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/sabnampandit/tags/natural-language-processing/</loc>
+    <loc>http://localhost:56994/tags/natural-language-processing/</loc>
     <lastmod>2024-12-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/sabnampandit/project/</loc>
+    <loc>http://localhost:56994/project/</loc>
     <lastmod>2024-12-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/sabnampandit/tags/python/</loc>
+    <loc>http://localhost:56994/tags/python/</loc>
     <lastmod>2024-12-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/sabnampandit/tags/web-scraping/</loc>
+    <loc>http://localhost:56994/tags/web-scraping/</loc>
     <lastmod>2024-12-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/sabnampandit/tags/arima/</loc>
+    <loc>http://localhost:56994/tags/arima/</loc>
     <lastmod>2024-12-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/sabnampandit/project/timeseries/</loc>
+    <loc>http://localhost:56994/project/timeseries/</loc>
     <lastmod>2024-12-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/sabnampandit/tags/r-programming/</loc>
+    <loc>http://localhost:56994/tags/r-programming/</loc>
     <lastmod>2024-12-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/sabnampandit/tags/time-series-forecasting/</loc>
+    <loc>http://localhost:56994/tags/time-series-forecasting/</loc>
     <lastmod>2024-12-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/sabnampandit/projects/</loc>
+    <loc>http://localhost:56994/projects/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/sabnampandit/tags/data-visualization/</loc>
+    <loc>http://localhost:56994/tags/data-visualization/</loc>
     <lastmod>2024-04-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/sabnampandit/project/energypred/</loc>
+    <loc>http://localhost:56994/project/energypred/</loc>
     <lastmod>2024-04-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/sabnampandit/tags/machine-learning/</loc>
+    <loc>http://localhost:56994/tags/machine-learning/</loc>
     <lastmod>2024-04-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/sabnampandit/tags/arc-gis/</loc>
+    <loc>http://localhost:56994/tags/arc-gis/</loc>
     <lastmod>2023-11-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/sabnampandit/tags/java-script/</loc>
+    <loc>http://localhost:56994/tags/java-script/</loc>
     <lastmod>2023-11-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/sabnampandit/tags/machine-learning-regression-model/</loc>
+    <loc>http://localhost:56994/tags/machine-learning-regression-model/</loc>
     <lastmod>2023-11-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/sabnampandit/tags/mapbox/</loc>
+    <loc>http://localhost:56994/tags/mapbox/</loc>
     <lastmod>2023-11-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/sabnampandit/project/crimeanalysis/</loc>
+    <loc>http://localhost:56994/project/crimeanalysis/</loc>
     <lastmod>2023-11-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/sabnampandit/tags/p5js/</loc>
+    <loc>http://localhost:56994/tags/p5js/</loc>
     <lastmod>2023-11-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/sabnampandit/project/evchargingstations/</loc>
+    <loc>http://localhost:56994/project/evchargingstations/</loc>
     <lastmod>2023-11-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/sabnampandit/tags/tableau/</loc>
+    <loc>http://localhost:56994/tags/tableau/</loc>
     <lastmod>2023-11-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/sabnampandit/tags/computer-vision-algorithm/</loc>
+    <loc>http://localhost:56994/tags/computer-vision-algorithm/</loc>
     <lastmod>2023-11-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/sabnampandit/project/imagecaption/</loc>
+    <loc>http://localhost:56994/project/imagecaption/</loc>
     <lastmod>2023-11-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/sabnampandit/experience/</loc>
+    <loc>http://localhost:56994/experience/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/sabnampandit/</loc>
+    <loc>http://localhost:56994/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/sabnampandit/event/</loc>
+    <loc>http://localhost:56994/event/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/sabnampandit/event/example/</loc>
+    <loc>http://localhost:56994/event/example/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/sabnampandit/publication/</loc>
+    <loc>http://localhost:56994/publication/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/sabnampandit/publication/conference-paper/</loc>
+    <loc>http://localhost:56994/publication/conference-paper/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/sabnampandit/publication/journal-article/</loc>
+    <loc>http://localhost:56994/publication/journal-article/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/sabnampandit/publication/preprint/</loc>
+    <loc>http://localhost:56994/publication/preprint/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/sabnampandit/publication_types/</loc>
+    <loc>http://localhost:56994/publication_types/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
