@@ -259,6 +259,6 @@ I am a Data Scientist with a Master’s in Big Data Analytics. I also hold an MB
 
 For me, data science is more than code, models, or algorithms. It’s about curiosity. It’s about asking the right questions, solving complex problems, and building intelligent systems that can uncover patterns, generate insights, and even predict what’s next. I love the creative challenge of turning raw data into something meaningful, something that can drive decisions or inspire new ways of thinking.
 
-But beyond the world of data, I’m a curious explorer of life. I’m a foodie 🍴 who loves discovering new cafes, bakeries, and coffee spots ☕. I enjoy picking up new hobbies, trying new things, and diving into anything that sparks my curiosity.
+Beyond the world of data, I’m a curious explorer of life. I’m a foodie 🍴 who loves discovering new cafes, bakeries, and coffee spots ☕. I enjoy picking up new hobbies, trying new things, and diving into anything that sparks my curiosity.
 
 At heart, I’m a lifelong learner, driven by curiosity, fueled by creativity (and caffeine), and excited about building, learning, and exploring what comes next.
