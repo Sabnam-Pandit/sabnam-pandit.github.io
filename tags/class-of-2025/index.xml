@@ -17,10 +17,10 @@
       <link>https://sabnam-pandit.github.io/blogs/data-visualization/</link>
       <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
       <guid>https://sabnam-pandit.github.io/blogs/data-visualization/</guid>
-      <description>&lt;h1 id=&#34;-i-just-graduated-a-journey-of-growth-grit-and-gratitude&#34;&gt;🎓 I Just Graduated! A Journey of Growth, Grit, and Gratitude&lt;/h1&gt;
+      <description>&lt;h2 id=&#34;-i-just-graduated-a-journey-of-growth-grit-and-gratitude&#34;&gt;🎓 I Just Graduated! A Journey of Growth, Grit, and Gratitude&lt;/h2&gt;
 &lt;p&gt;&lt;em&gt;Reflections from my Master’s in Big Data Analytics at San Diego State University&lt;/em&gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;the-beginning-excitement-nervousness-and-determination&#34;&gt;The Beginning: Excitement, Nervousness, and Determination&lt;/h2&gt;
+&lt;h3 id=&#34;the-beginning-excitement-nervousness-and-determination&#34;&gt;The Beginning: Excitement, Nervousness, and Determination&lt;/h3&gt;
 &lt;p&gt;I just graduated with my Master’s in &lt;strong&gt;Big Data Analytics&lt;/strong&gt; from SDSU! After months of hard work, late-night coding sessions, and unforgettable memories, I’m finally holding that diploma in my hands.&lt;/p&gt;
 &lt;p&gt;I still remember opening my admission email — a mix of excitement, nervousness, and sheer determination. Orientation at &lt;strong&gt;Storm Hall&lt;/strong&gt; was the official beginning. Meeting my cohort — brilliant minds from around the world — was overwhelming in the best way possible.&lt;/p&gt;
 &lt;blockquote&gt;
@@ -28,12 +28,13 @@
 &lt;/blockquote&gt;
 &lt;p&gt;From day one, I told myself: &lt;em&gt;“Give it your all.”&lt;/em&gt; I had come to a new country, full of opportunities, determined to make the most of it.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;-experiences-that-shaped-me&#34;&gt;💻 Experiences That Shaped Me&lt;/h2&gt;
-&lt;h3 id=&#34;my-first-project-image-caption-generation-with-custom-music-recommendation&#34;&gt;My First Project: Image Caption Generation with Custom Music Recommendation&lt;/h3&gt;
+&lt;h3 id=&#34;-experiences-that-shaped-me&#34;&gt;💻 Experiences That Shaped Me&lt;/h3&gt;
+&lt;h5 id=&#34;my-first-project-image-caption-generation-with-custom-music-recommendation&#34;&gt;My First Project: Image Caption Generation with Custom Music Recommendation&lt;/h5&gt;
 &lt;p&gt;I was a complete beginner, learning, stumbling, and doubting myself — but the joy of finally seeing it work was unforgettable.&lt;/p&gt;
-&lt;p&gt;Those late nights spent debugging code were intense. When the model finally ran, a mix of relief, triumph, and confidence washed over me — a true &lt;em&gt;‘bring it on’&lt;/em&gt; feeling.&lt;/p&gt;
+&lt;p&gt;Starting with Neural Networks, CNN models, TensorFlow, and Keras for our project was a steep learning curve. Everything was new and challenging: exploring concepts, watching tutorials, and figuring things out through self-learning. The effort to resolve bugs and celebrate small milestones along the way gave me a real taste for doing more and learning more.&lt;/p&gt;
+&lt;p&gt;When the model finally ran, a mix of relief, triumph, and confidence washed over me, a true “bring it on” feeling. This project pushed me well beyond my comfort zone, but I genuinely enjoyed every bit of it. Challenging yourself with something new and committing to learning it is incredibly rewarding. When you finally make something work that was once beyond your reach, that feeling is truly empowering.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3 id=&#34;research-with-san-diego-zoo&#34;&gt;Research with San Diego Zoo&lt;/h3&gt;
+&lt;h4 id=&#34;research-with-san-diego-zoo&#34;&gt;Research with San Diego Zoo&lt;/h4&gt;
 &lt;p&gt;Working with my professor on a project in collaboration with the &lt;strong&gt;San Diego Zoo Safari Park&lt;/strong&gt; was surreal. Driving to the park to present our findings gave me my first taste of academic research and boosted my confidence to share work publicly.&lt;/p&gt;
 &lt;p&gt;
 
@@ -64,27 +65,30 @@
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;hr&gt;
-&lt;h3 id=&#34;gmis-conference--teaching-assistant-experience&#34;&gt;GMIS Conference &amp;amp; Teaching Assistant Experience&lt;/h3&gt;
-&lt;p&gt;Attending &lt;strong&gt;GMIS (Great Minds in STEM)&lt;/strong&gt; was inspiring — filled with knowledge, networking, and a glimpse into what’s possible.&lt;/p&gt;
-&lt;p&gt;Being a Teaching Assistant for &lt;strong&gt;Advanced Programming Languages&lt;/strong&gt; was terrifying at first, but every week I gained more confidence. Proctoring an in-person exam for 65 students on my own was a small victory that whispered, &lt;em&gt;“Hey, maybe you could teach someday.”&lt;/em&gt;&lt;/p&gt;
+&lt;h4 id=&#34;gmis-conference-experience&#34;&gt;GMIS Conference Experience&lt;/h4&gt;
+&lt;p&gt;Attending &lt;strong&gt;GMIS (Great Minds in STEM)&lt;/strong&gt; was inspiring, filled with knowledge, networking, and a glimpse into what’s possible. When I received an email from a professor informing me that I had the chance to attend a conference with a CASHI travel scholarship, it felt surreal.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;-lessons-id-share-with-my-past-self&#34;&gt;🔄 Lessons I’d Share With My Past Self&lt;/h2&gt;
+&lt;h4 id=&#34;teaching-assistant&#34;&gt;Teaching Assistant&lt;/h4&gt;
+&lt;p&gt;Being a Teaching Assistant for &lt;strong&gt;Advanced Programming Languages&lt;/strong&gt; was terrifying at first, but every week I gained more confidence. Proctoring an in-person exam for 65 students on my own was a small victory that whispered, &lt;em&gt;“Hey, maybe you could teach someday.”&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;I also served as a grading assistant for the &lt;strong&gt;Principles and Techniques in Data Science&lt;/strong&gt; course. It was a learning experience for me as well, as I gained new perspectives and ideas from the students. Our professor was incredibly supportive, and this experience taught me to be responsible, hardworking, and humble.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-lessons-id-share-with-my-past-self&#34;&gt;🔄 Lessons I’d Share With My Past Self&lt;/h3&gt;
 &lt;p&gt;While I’m proud of my journey, there are a few things I’d approach differently:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;🎓 &lt;strong&gt;It’s not just about the course — it’s about the professor.&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;It’s not just about the course — it’s about the professor.&lt;/strong&gt;&lt;br&gt;
 Research teaching styles and past student experiences; mentorship matters.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;📚 &lt;strong&gt;Take a class from a professor you admire.&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;Take a class from a professor you admire.&lt;/strong&gt;&lt;br&gt;
 Don’t wait. Reach out early and find ways to collaborate.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;💼 &lt;strong&gt;Start preparing for internships immediately.&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;Start preparing for internships immediately.&lt;/strong&gt;&lt;br&gt;
 Resume, cover letters, LinkedIn — start early. Timing can make all the difference.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;💡 &lt;strong&gt;Ask for help and take risks.&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;Ask for help and take risks.&lt;/strong&gt;&lt;br&gt;
 Growth comes from stepping out of your comfort zone.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -118,16 +122,15 @@ Growth comes from stepping out of your comfort zone.&lt;/p&gt;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;p&gt;I’m thrilled to share that I graduated with a &lt;strong&gt;4.0 GPA&lt;/strong&gt; and received the &lt;strong&gt;BDA Excellence Certificate&lt;/strong&gt;, a proud moment symbolizing all the effort, perseverance, and growth over the past two years.&lt;/p&gt;
-&lt;p&gt;Now, I’m ready to dive into the real world — eager to apply my skills, discover new ones, and explore the full extent of my potential. The learning doesn’t stop here. I’m on it. 💪&lt;/p&gt;
+&lt;p&gt;I’m thrilled to share that I graduated with a &lt;strong&gt;4.0 GPA&lt;/strong&gt; and received the &lt;strong&gt;BDA Excellence Award&lt;/strong&gt;, a proud moment symbolizing all the effort, perseverance, and growth over the past two years.&lt;/p&gt;
+&lt;p&gt;Now, I’m ready to dive into the real world, eager to apply my skills, discover new ones, and explore the full extent of my potential. The learning doesn’t stop here. I’m on it. 💪&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;-reflections&#34;&gt;✨ Reflections&lt;/h2&gt;
-&lt;p&gt;Two years ago, I was nervous about stepping into a new country, a new educational system, and an entirely new field. Today, I’m grateful — for the challenges, the failures, the late nights, the mentors, and the friends who made this journey unforgettable.&lt;/p&gt;
+&lt;p&gt;Two years ago, I was nervous about stepping into a new country, a new educational system, and an entirely new field. Today, I’m grateful for the challenges, the failures, the late nights, the mentors, and the friends who made this journey unforgettable.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;“Embrace every moment. The struggles, the excitement, the tiny wins — they all shape you in ways you’ll only realize later.”&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;To anyone reading this who’s about to embark on a similar path: keep learning, stay curious, and trust the process.&lt;/p&gt;
-&lt;hr&gt;
 </description>
     </item>
     

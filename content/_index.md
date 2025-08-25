@@ -84,27 +84,46 @@ sections:
       text: |-
        ###  Large Language Models for Similarity and Contradiction Analysis in Cardiovascular Research
        Cardiovascular disease research generates thousands of papers each year, making it challenging to track which studies align or contradict each other. My project explored how *large language models (LLMs)* can analyze medical literature to identify dominant topics, detect similarities and contradictions, and extract key facts from abstracts.
+
        ##### What I Did:
        - Grouped research papers into topics using *LDA (Gensim)* and tracked topic evolution.  
        - Used *LLMs (Llama, Orca, Gemini)* and *sentence embeddings* to compare abstracts and detect contradictions.  
        - Extracted structured facts from abstracts with *prompt engineering*, improving consistency and reliability.  
        - Visualized similarity distributions using *histograms and boxplots* to reveal patterns across topics.
        
-       ##### Key Insights
+       ##### Key Insights:
        - Contradictions within topics were rare; papers often explore different angles of the same topic.  
        - Topic cohesion varies—“risk factors” were more aligned, “gene expression” more diverse.  
        - Larger models and carefully crafted prompts produce more accurate results.
-       #### Tools & Skills
+
+       ##### Tools & Skills:
        Python (Pandas, NLTK, Matplotlib), Gensim, SentenceTransformers, LLMs, NLP preprocessing, data visualization, prompt engineering.
 
 
-      
+       ### 🌿 Exploring Biodiversity in the Peruvian Jungle with Machine Learning
+       This project focused on analyzing the rich soundscape of the Peruvian Amazon using machine learning. By transforming hours of raw audio into high-dimensional vector embeddings with the Animal2Vec transformer model, we were able to cluster animal vocalizations without needing labeled data. The goal was to uncover hidden patterns in biodiversity, such as species behavior and daily activity rhythms, through unsupervised learning.
+       
+       ##### What I Did:
+       I implemented and analyzed K-means clustering on the audio embeddings. My main contributions included:
+       - Running clustering experiments and selecting the optimal number of clusters using the Elbow method.
+       - Comparing regular K-means with Mini-Batch K-means to improve scalability and efficiency.
+       - Visualizing results with UMAP projections, making it easier to interpret how clusters grouped similar sounds.- Analyzing time-of-day activity patterns across clusters to reveal ecological trends.
 
+       ##### Key Insights:
+       - K-means identified broad patterns: It grouped similar acoustic features into 20 well-separated clusters, effectively capturing recurring vocalization types across recordings.
+       - Efficiency matters: Mini-batch K-means significantly reduced computation time while maintaining cluster quality, proving useful for large-scale datasets.
+       - Behavioral patterns emerged: Some clusters revealed species-specific activity rhythms (e.g., midday vocalizations), while others grouped rare sounds such as snore-like or background noises.
+       
+       Compared to HDBSCAN, K-means was better at capturing general soundscape structures, while HDBSCAN excelled at identifying rare or localized events.
+       
+       ##### Tools & Skills:
+       Python (scikit-learn, NumPy, pandas) – clustering and preprocessing
+       UMAP & t-SNE – dimensionality reduction for visualization
+       matplotlib & plotly – plots and cluster visualizations
+       librosa & torchaudio – audio analysis and spectrograms
+       Streamlit – for interactive exploration of clusters 
 
-
-       ### Animals audio Data Analysis 
-
-       I worked on a research project analyzing environmental audio recordings from the Peruvian Amazon to study biodiversity through soundscapes. Using Python, signal processing, and machine learning techniques, I processed over 192 minutes of raw audio to extract acoustic features, generate spectrograms, and identify patterns in species activity. This project highlights how bioacoustics can support ecological monitoring and conservation efforts. You can read more about the project here:
+       Our Project Website:
        <a href="https://sites.google.com/sdsu.edu/soundscape-analysis/home" target="_blank" style="display:inline-block;padding:10px 20px;background:#007ACC;color:#fff;border-radius:8px;text-decoration:none;">
        🌱 Visit Soundscape Analysis Project
        </a>

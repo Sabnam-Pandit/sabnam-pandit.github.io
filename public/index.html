@@ -847,7 +847,7 @@
     <div class="pt-2 justify-content-center prose prose-slate dark:prose-invert">
       <div class="bio-text" >
         <h2 id="about-me">About Me</h2>
-<p>I am a Data Scientist, though my journey here has been anything but linear. It started with Computer Engineering, where I built a strong technical foundation. Then came an MBA in IT, which opened my eyes to the business side of technology and how data connects to real-world decisions. But it was during my Master’s in Big Data Analytics at San Diego State University that everything clicked,I discovered how much I loved working with data, asking questions, and finding answers hidden in patterns.</p>
+<p>I am a Data Scientist with a Master’s in Big Data Analytics. I also hold an MBA in IT and a Bachelor&rsquo;s degree in Computer Engineering.</p>
 <p>For me, data science is more than code, models, or algorithms. It’s about curiosity. It’s about asking the right questions, solving complex problems, and building intelligent systems that can uncover patterns, generate insights, and even predict what’s next. I love the creative challenge of turning raw data into something meaningful, something that can drive decisions or inspire new ways of thinking.</p>
 <p>But beyond the world of data, I’m a curious explorer of life. I’m a foodie 🍴 who loves discovering new cafes, bakeries, and coffee spots ☕. I enjoy picking up new hobbies, trying new things, and diving into anything that sparks my curiosity.</p>
 <p>At heart, I’m a lifelong learner, driven by curiosity, fueled by creativity (and caffeine), and excited about building, learning, and exploring what comes next.</p>
@@ -1065,16 +1065,37 @@
 <li>Extracted structured facts from abstracts with <em>prompt engineering</em>, improving consistency and reliability.</li>
 <li>Visualized similarity distributions using <em>histograms and boxplots</em> to reveal patterns across topics.</li>
 </ul>
-<h5 id="key-insights">Key Insights</h5>
+<h5 id="key-insights">Key Insights:</h5>
 <ul>
 <li>Contradictions within topics were rare; papers often explore different angles of the same topic.</li>
 <li>Topic cohesion varies—“risk factors” were more aligned, “gene expression” more diverse.</li>
 <li>Larger models and carefully crafted prompts produce more accurate results.</li>
 </ul>
-<h4 id="tools--skills">Tools &amp; Skills</h4>
+<h5 id="tools--skills">Tools &amp; Skills:</h5>
 <p>Python (Pandas, NLTK, Matplotlib), Gensim, SentenceTransformers, LLMs, NLP preprocessing, data visualization, prompt engineering.</p>
-<h3 id="animals-audio-data-analysis">Animals audio Data Analysis</h3>
-<p>I worked on a research project analyzing environmental audio recordings from the Peruvian Amazon to study biodiversity through soundscapes. Using Python, signal processing, and machine learning techniques, I processed over 192 minutes of raw audio to extract acoustic features, generate spectrograms, and identify patterns in species activity. This project highlights how bioacoustics can support ecological monitoring and conservation efforts. You can read more about the project here:
+<h3 id="-exploring-biodiversity-in-the-peruvian-jungle-with-machine-learning">🌿 Exploring Biodiversity in the Peruvian Jungle with Machine Learning</h3>
+<p>This project focused on analyzing the rich soundscape of the Peruvian Amazon using machine learning. By transforming hours of raw audio into high-dimensional vector embeddings with the Animal2Vec transformer model, we were able to cluster animal vocalizations without needing labeled data. The goal was to uncover hidden patterns in biodiversity, such as species behavior and daily activity rhythms, through unsupervised learning.</p>
+<h5 id="what-i-did-1">What I Did:</h5>
+<p>I implemented and analyzed K-means clustering on the audio embeddings. My main contributions included:</p>
+<ul>
+<li>Running clustering experiments and selecting the optimal number of clusters using the Elbow method.</li>
+<li>Comparing regular K-means with Mini-Batch K-means to improve scalability and efficiency.</li>
+<li>Visualizing results with UMAP projections, making it easier to interpret how clusters grouped similar sounds.- Analyzing time-of-day activity patterns across clusters to reveal ecological trends.</li>
+</ul>
+<h5 id="key-insights-1">Key Insights:</h5>
+<ul>
+<li>K-means identified broad patterns: It grouped similar acoustic features into 20 well-separated clusters, effectively capturing recurring vocalization types across recordings.</li>
+<li>Efficiency matters: Mini-batch K-means significantly reduced computation time while maintaining cluster quality, proving useful for large-scale datasets.</li>
+<li>Behavioral patterns emerged: Some clusters revealed species-specific activity rhythms (e.g., midday vocalizations), while others grouped rare sounds such as snore-like or background noises.</li>
+</ul>
+<p>Compared to HDBSCAN, K-means was better at capturing general soundscape structures, while HDBSCAN excelled at identifying rare or localized events.</p>
+<h5 id="tools--skills-1">Tools &amp; Skills:</h5>
+<p>Python (scikit-learn, NumPy, pandas) – clustering and preprocessing
+UMAP &amp; t-SNE – dimensionality reduction for visualization
+matplotlib &amp; plotly – plots and cluster visualizations
+librosa &amp; torchaudio – audio analysis and spectrograms
+Streamlit – for interactive exploration of clusters</p>
+<p>Our Project Website:
 <a href="https://sites.google.com/sdsu.edu/soundscape-analysis/home" target="_blank" style="display:inline-block;padding:10px 20px;background:#007ACC;color:#fff;border-radius:8px;text-decoration:none;">
 🌱 Visit Soundscape Analysis Project
 </a></p>
